@@ -1,2 +1,1 @@
-# helloc
-Basic C program
+http://www.etutorplus.wordpress.com
